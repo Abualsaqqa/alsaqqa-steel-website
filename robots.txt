@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abualsaqqa.github.io/alsaqqa-steel-website/sitemap.xml
